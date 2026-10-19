@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <channel>
-        <title>Berth</title>
-        <link>https://raw.githubusercontent.com/Ez-Web-Lda/berth-releases/main/appcast.xml</link>
-        <description>Berth updates</description>
-        <language>en</language>
-    </channel>
+  <channel>
+    <title>Berth</title>
+    <language>en</language>
+    <item>
+      <title>Berth 1.1.0</title>
+      <pubDate>Mon, 19 Oct 2026 08:49:39 +0000</pubDate>
+      <sparkle:version>1001000</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+    <h2>Changes</h2>
+    <h3>Features</h3>
+    <ul><li><strong>updates:</strong> send Claude Code to fix a failed update (#11) (1c7dc36)</li></ul>
+    <h3>Documentation</h3>
+    <ul><li>document CI runners, signing and the Sparkle public key (#9) (76b0eb9)</li></ul>
+    ]]></description>
+      <enclosure url="https://github.com/Ez-Web-Lda/berth-releases/releases/download/v1.1.0/Berth-1.1.0.zip" length="14873786" type="application/octet-stream" sparkle:edSignature="9Hwyb+Y0EtvVHBOeBZEmBrQRfUzRjy36E8ulAJHtsibUw8XmAW5sbsJKb7Z4s2RCXMk+o6Ec9ebKbZmQznixCw=="/>
+    </item>
+  </channel>
 </rss>
