@@ -5,7 +5,7 @@
     <language>en</language>
     <item>
       <title>Berth 1.1.0</title>
-      <pubDate>Mon, 19 Oct 2026 08:49:39 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 09:30:03 +0000</pubDate>
       <sparkle:version>1001000</sparkle:version>
       <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -16,7 +16,7 @@
     <h3>Documentation</h3>
     <ul><li>document CI runners, signing and the Sparkle public key (#9) (76b0eb9)</li></ul>
     ]]></description>
-      <enclosure url="https://github.com/Ez-Web-Lda/berth-releases/releases/download/v1.1.0/Berth-1.1.0.zip" length="14873786" type="application/octet-stream" sparkle:edSignature="9Hwyb+Y0EtvVHBOeBZEmBrQRfUzRjy36E8ulAJHtsibUw8XmAW5sbsJKb7Z4s2RCXMk+o6Ec9ebKbZmQznixCw=="/>
+      <enclosure url="https://github.com/Ez-Web-Lda/berth-releases/releases/download/v1.1.0/Berth-1.1.0.zip" length="14873806" type="application/octet-stream" sparkle:edSignature="DT/49yaxqVhb+2NPmSKLbxQ56AUZD0Tfk8YwM5hzJ+Wc028aLD7NkRc1m79EZo3mGRpzPqoJOt/EAlK36LwUDg=="/>
     </item>
   </channel>
 </rss>
