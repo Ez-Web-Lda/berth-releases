@@ -4,6 +4,19 @@
     <title>Berth</title>
     <language>en</language>
     <item>
+      <title>Berth 1.1.1</title>
+      <pubDate>Thu, 22 Oct 2026 10:25:34 +0000</pubDate>
+      <sparkle:version>1001001</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+    <h2>Changes</h2>
+    <h3>Bug Fixes</h3>
+    <ul><li><strong>agent:</strong> make every agent child responsible for itself (#15) (ff8d11a)</li></ul>
+    ]]></description>
+      <enclosure url="https://github.com/Ez-Web-Lda/berth-releases/releases/download/v1.1.1/Berth-1.1.1.zip" length="15066319" type="application/octet-stream" sparkle:edSignature="1mkw46rl/GrRAVgiMWGb++nRanTJ9Wbd6ApMvXNBuLUrMQJXNlk+SsYOharTe3tlg0EMsnJdPi4hPRcZJWIDBA=="/>
+    </item>
+    <item>
       <title>Berth 1.1.0</title>
       <pubDate>Mon, 19 Oct 2026 09:30:03 +0000</pubDate>
       <sparkle:version>1001000</sparkle:version>
