@@ -4,6 +4,21 @@
     <title>Berth</title>
     <language>en</language>
     <item>
+      <title>Berth 1.2.0</title>
+      <pubDate>Mon, 26 Oct 2026 11:44:42 +0000</pubDate>
+      <sparkle:version>1002000</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+    <h2>Changes</h2>
+    <h3>Features</h3>
+    <ul><li><strong>projects:</strong> let users give a project a custom display name (#21) (911800f), closes #19</li></ul>
+    <h3>Bug Fixes</h3>
+    <ul><li><strong>agent:</strong> kill a timed-out child that ignores SIGTERM (#22) (31e11e0)</li><li><strong>ui:</strong> let the sidebar grow to 520 points (#20) (fb51209)</li></ul>
+    ]]></description>
+      <enclosure url="https://github.com/Ez-Web-Lda/berth-releases/releases/download/v1.2.0/Berth-1.2.0.zip" length="15237108" type="application/octet-stream" sparkle:edSignature="Tn/o0ECvpA9SrCQNa9faN9jY2ED9W9OjOh9PQkeUzLk/KHbaHYbMx2WJA1Z4bGW48JZRbekokivxHpaPJ/xPCw=="/>
+    </item>
+    <item>
       <title>Berth 1.1.1</title>
       <pubDate>Thu, 22 Oct 2026 10:25:34 +0000</pubDate>
       <sparkle:version>1001001</sparkle:version>
