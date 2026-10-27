@@ -4,6 +4,19 @@
     <title>Berth</title>
     <language>en</language>
     <item>
+      <title>Berth 1.2.1</title>
+      <pubDate>Tue, 27 Oct 2026 14:59:07 +0000</pubDate>
+      <sparkle:version>1002001</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+    <h2>Changes</h2>
+    <h3>Bug Fixes</h3>
+    <ul><li><strong>projects:</strong> let users point a project at its moved folder (#27) (a06b81c)</li><li><strong>proxy:</strong> recover when launchd's 443/80 sockets do not listen (#25) (e19e4e9)</li></ul>
+    ]]></description>
+      <enclosure url="https://github.com/Ez-Web-Lda/berth-releases/releases/download/v1.2.1/Berth-1.2.1.zip" length="15377487" type="application/octet-stream" sparkle:edSignature="+//YEFCYrAkYSnX7uDWNuZnFsDM4Ii/0e4dotWFCkn8CdM5mXDY4GL08ATQR/IE3q2Y9GqAdM6cSzV/uBcDXBA=="/>
+    </item>
+    <item>
       <title>Berth 1.2.0</title>
       <pubDate>Mon, 26 Oct 2026 11:44:42 +0000</pubDate>
       <sparkle:version>1002000</sparkle:version>
