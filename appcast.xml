@@ -4,6 +4,19 @@
     <title>Berth</title>
     <language>en</language>
     <item>
+      <title>Berth 1.3.0</title>
+      <pubDate>Mon, 09 Nov 2026 12:05:48 +0000</pubDate>
+      <sparkle:version>1003000</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+    <h2>Changes</h2>
+    <h3>Features</h3>
+    <ul><li><strong>notifications:</strong> add a "Fix with agent" action to service-down alerts (#30) (3271462)</li><li><strong>services:</strong> add a "Fix with agent" button for struggling services (#28) (d78c5b1)</li><li><strong>services:</strong> run the "Fix with agent" agent in a Berth terminal window (#31) (6998c33)</li></ul>
+    ]]></description>
+      <enclosure url="https://github.com/Ez-Web-Lda/berth-releases/releases/download/v1.3.0/Berth-1.3.0.zip" length="18171662" type="application/octet-stream" sparkle:edSignature="gQWXW/4V4ithavS4S7lO65IDRPzUeGgI178ufNCYcetqP8nsJQWaSZJMjHVWFX1VyxYnIvUbG6KuitRc4vysBw=="/>
+    </item>
+    <item>
       <title>Berth 1.2.1</title>
       <pubDate>Tue, 27 Oct 2026 14:59:07 +0000</pubDate>
       <sparkle:version>1002001</sparkle:version>
